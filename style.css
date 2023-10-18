@@ -1,0 +1,28 @@
+/* Style for the menu container */
+#menu-list {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+/* Style for category titles (h3 elements) */
+#menu-list h3 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #333;
+}
+
+/* Style for menu item list (ul elements) */
+#menu-list ul {
+    list-style-type: none;
+}
+
+/* Style for individual menu items (li elements) */
+#menu-list li {
+    font-size: 16px;
+    margin: 5px 0;
+    color: #666;
+}
